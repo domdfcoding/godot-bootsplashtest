@@ -1,5 +1,7 @@
 # Boot Splash Test
 
+Godot 4.3
+
 The custom boot logo should show up when running in the editor (but not the editor window itself).
 It should also show up when running the exported executable in this directory.
 But copying the executable to a different directory means the logo won't show up, with the following error:
