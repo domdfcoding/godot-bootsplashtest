@@ -18,3 +18,8 @@ boot_splash/fullsize=false
 config/icon="res://icon.svg"
 boot_splash/minimum_display_time=5000
 boot_splash/image.editor_hint=""
+
+[display]
+
+window/size/viewport_width=1920
+window/size/viewport_height=1080
